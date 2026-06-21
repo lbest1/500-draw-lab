@@ -1,2 +1,14 @@
 # 500-draw-lab
-HTML page archive and documentation
+
+自动页面托管记录
+
+此仓库用于存放发布任务生成的静态页面，方便后续检查和维护。
+
+## 文件管理
+
+- HTML 文件由发布流程生成
+- README 用于保留基础说明
+
+## 访问状态
+
+如果 Pages 暂未生效，可稍后重试或查看仓库中的 HTML 文件。
